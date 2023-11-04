@@ -1,2 +1,2 @@
 # MATLAB-project
-This repositories is for my Matlab course at university
+This is the repositories for my Matlab course at university
